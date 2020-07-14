@@ -1,22 +1,22 @@
- # README Generator
+ # README generator
  ## Description
- This allows the user to generate a basic readme that is easily editable
+ This application allows the user to generate a simple README for their project
  ## Installing
  Installation requirement(s): 
- npm run test
+ * Ensure that you have node JS installed
  ## Usage
- Use node js to run the index.js file and proceed to answer the questions.
+ Use the code node index.js in the command line to run the app
  ## Contributions
- Not yet
+ Please make sure to notify my before attempting to change my code. Thank you!
  ## Tests
  Here is the code to run a test.
  ```
  npm run test
  ```
  ## License
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- github.com/cyrusjose
- cyrus.jose@outlook.com
+ * github.com/cyrusjose
+ * cyrus.jose@outlook.com

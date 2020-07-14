@@ -20,7 +20,7 @@ function generateMarkdown(answers) {
  ${answers.description}
  ## Installing
  Installation requirement(s): 
- ${answers.installation}
+ * ${answers.installation}
  ## Usage
  ${answers.usage}
  ## Contributions
@@ -34,8 +34,8 @@ function generateMarkdown(answers) {
  ${assignBadge(answers.license)}
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: ${'\n'}
- github.com/${answers.githubUser}
- ${answers.email}
+ * github.com/${answers.githubUser}
+ * ${answers.email}
 `
 }
 
