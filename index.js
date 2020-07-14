@@ -65,8 +65,7 @@ const promptUser = ()=>{
 
 // function to write README file
 function generateReadMe(answers) {
-    return`
-    # ${answers.title}
+    return` # ${answers.title}
      ${answers.description}
     ## Installing
     ${answers.installation}
