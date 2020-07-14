@@ -8,7 +8,7 @@ function assignBadge(choice){
   else if (choice === "BSD 2-Clause"){
     return "[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)";
   }
-  else {
+  else if (choice === "MIT") {
     return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
   }
 }
@@ -26,7 +26,7 @@ function generateMarkdown(answers) {
  ## Tests
  Here is the code to run the test
  ${'```'}
- ${answers.testInstructions + '\n'}
+ ${answers.testInstructions}
  ${'```'}
  ## License
  ${assignBadge()}
