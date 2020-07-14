@@ -60,16 +60,25 @@ const promptUser = ()=>{
             name: 'email',
             message: questions[8]
         }
-    ])
+    ]);
 }
 
-
 // function to write README file
-function writeToFile(fileName, data) {}
+function generateReadMe(Answers) {
+
+}
 
 // function to initialize program
 async function init() {
   console.log('Hello!');
+  try{
+      const answers = await promptUser();
+      const readme = generateReadMe(answers);
+      await writeFileAsync("README.md", readme);
+      console.log('Successfully Wrote README.md!');
+  } catch(err){
+      console.log(err);
+  };
   
 }
 
