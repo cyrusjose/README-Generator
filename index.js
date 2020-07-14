@@ -36,7 +36,7 @@ const promptUser = ()=>{
         },
         {
             type: 'input',
-            name: 'testInstrucctions',
+            name: 'testInstructions',
             message: [6]
         },
         {
@@ -49,6 +49,16 @@ const promptUser = ()=>{
                 'C',
                 'D'
             ]
+        },
+        {
+            type: 'input',
+            name: 'githubUser',
+            message: questions[7]
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: questions[8]
         }
     ])
 }
