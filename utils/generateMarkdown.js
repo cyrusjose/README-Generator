@@ -15,6 +15,7 @@ function assignBadge(choice){
 
 // function to generate markdown for README
 function generateMarkdown(answers) {
+  let badges = assignBadge(choice);
   return ` # ${answers.title}
   ${answers.description}
  ## Installing
@@ -29,7 +30,7 @@ function generateMarkdown(answers) {
  ${answers.testInstructions}
  ${'```'}
  ## License
- ${assignBadge(choice)}
+ ${badges()}
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: ${'\n'}
  github.com/${answers.githubUser}
