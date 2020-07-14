@@ -16,11 +16,11 @@
  ## Usage
  Make sure that node js is installed. Run the code "node index.js" in the command line.
  ## Contributions
- Yes.
+ Yes, but please reach out via github or my personal email before making changes.
  ## Tests
  Here is the code to run a test.
  ```
- npm run test.
+ npm run test
  ```
  ## License
  The chosen license for this application is BSD 3-Clause. Please follow the link below for more imformation about the license.
