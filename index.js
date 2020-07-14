@@ -64,8 +64,24 @@ const promptUser = ()=>{
 }
 
 // function to write README file
-function generateReadMe(Answers) {
-
+function generateReadMe(answers) {
+    return`
+    #${answers.title}
+     ${answers.description}
+    ## Installing
+    ${answers.installation}
+    ## Usage
+    ${answers.usage}
+    ## Contributions
+    ${answers.contribution}
+    ## Tests
+    ${answers.testInstructions}
+    ## License
+    ${answers.license}
+    ## Questions
+    ${answers.githubUser}
+    ${answers.email}
+    `
 }
 
 // function to initialize program
