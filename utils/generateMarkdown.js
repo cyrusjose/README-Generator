@@ -16,15 +16,17 @@ function generateMarkdown(answers) {
     }
   }
   return ` # ${answers.title}
-  ${answers.description}
+ ## Description
+ ${answers.description}
  ## Installing
+ Installation requirement(s): 
  ${answers.installation}
  ## Usage
  ${answers.usage}
  ## Contributions
  ${answers.contribution}
  ## Tests
- Here is the code to run the test
+ Here is the code to run a test.
  ${'```'}
  ${answers.testInstructions}
  ${'```'}
