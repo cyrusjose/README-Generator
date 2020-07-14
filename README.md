@@ -1,20 +1,20 @@
- # Test
-  Test
+ # test
+  test
  ## Installing
- Test
+ test
  ## Usage
- Test
+ test
  ## Contributions
- Test
+ test
  ## Tests
  Here is the code to run the test
  ```
- Test
+ test
  ```
  ## License
  undefined
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- github.com/cyrusjose
+ github.com/test
  test
