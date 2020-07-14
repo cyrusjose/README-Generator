@@ -45,10 +45,10 @@ const promptUser = ()=>{
             name: 'license',
             message: questions[4],
             choices: [
-                'A',
-                'B',
-                'C',
-                'D'
+                'Apache License 2.0',
+                'BSD 3-Clause',
+                'BSD 2-Clause',
+                'MIT'
             ]
         },
         {
