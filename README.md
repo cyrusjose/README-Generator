@@ -1,22 +1,22 @@
- # README generator
+ # t[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  ## Description
- This application allows the user to generate a simple README for their project
+ t
  ## Installing
  Installation requirement(s): 
- * Ensure that you have node JS installed
+ * t
  ## Usage
- Use the code node index.js in the command line to run the app
+ t
  ## Contributions
- Please make sure to notify my before attempting to change my code. Thank you!
+ t
  ## Tests
  Here is the code to run a test.
  ```
- npm run test
+ t
  ```
  ## License
- [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+ 
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- * github.com/cyrusjose
- * cyrus.jose@outlook.com
+ * github.com/t
+ * t
