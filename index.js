@@ -37,7 +37,7 @@ const promptUser = ()=>{
         {
             type: 'input',
             name: 'testInstructions',
-            message: [6]
+            message: questions[6]
         },
         {
             type: 'list',
