@@ -35,12 +35,12 @@ function generateMarkdown(answers) {
  ${answers.description}
  ## Table of Contents
  <!--ts-->
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [Contributions](#Contributions)
-    * [Tests](#Tests)
-    * [License](#License)
-    * [Questions](#Questions)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Contributions](#Contributions)
+  * [Tests](#Tests)
+  * [License](#License)
+  * [Questions](#Questions)
  <!--te-->
  ## Installing
  Installation requirement(s) [Add more as necessary]: 
