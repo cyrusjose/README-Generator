@@ -50,7 +50,7 @@ function generateMarkdown(answers) {
  * ${chosenLicence(answers.license)}
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: ${'\n'}
- * github.com/${answers.githubUser}
+ * https://github.com/${answers.githubUser}
  * ${answers.email}
 `
 }
