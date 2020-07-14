@@ -30,13 +30,13 @@ function generateMarkdown(answers) {
       return "https://opensource.org/licenses/MIT";
     }
   }
-  return ` # ${answers.title + assignBadge(answers.license)}
+  return ` # ${answers.title + ' ' +  assignBadge(answers.license)}
  ## Description
  ${answers.description}
  ## Table of Contents
  <!--ts-->
-    * [Installation](#Installation})
-    * [Usage](#Usage})
+    * [Installation](#Installation)
+    * [Usage](#Usage)
     * [Contributions](#Contributions)
     * [Tests](#Tests)
     * [License](#Licenses)

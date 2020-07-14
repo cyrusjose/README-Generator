@@ -1,10 +1,10 @@
- # README Generator[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ # README Generator [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
  ## Description
- A readme generator that allows the user create a REAMDE.MD for their app
+ This app is a CLI that allows users to generate a README for their projects.
  ## Table of Contents
  <!--ts-->
-    * [Installation](#Installation})
-    * [Usage](#Usage})
+    * [Installation](#Installation)
+    * [Usage](#Usage)
     * [Contributions](#Contributions)
     * [Tests](#Tests)
     * [License](#Licenses)
@@ -12,19 +12,19 @@
  <!--te-->
  ## Installing
  Installation requirement(s) [Add more as necessary]: 
- * None
+ * The command line and node js is required for this app.
  ## Usage
- Run node js and use the code node index.js in the commandline
+ Make sure that node js is installed and run the code "node index.js" to start the questions.
  ## Contributions
- Not Applicable
+ I am open to contributions however, please reach out to me via email and/or github before making any changes.
  ## Tests
  Here is the code to run a test.
  ```
  npm run test
  ```
  ## License
- The chosen license for this application is MIT. Please follow the link below for more imformation about the license.
- * https://opensource.org/licenses/MIT
+ The chosen license for this application is BSD 2-Clause. Please follow the link below for more imformation about the license.
+ * https://opensource.org/licenses/BSD-2-Clause
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
