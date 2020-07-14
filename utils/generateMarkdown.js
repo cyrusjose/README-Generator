@@ -26,11 +26,12 @@ function generateMarkdown(answers) {
  ## Tests
  Here is the code to run the test
  ${'```'}
- ${answers.testInstructions}
+ ${answers.testInstructions + '\n'}
  ${'```'}
  ## License
  ${assignBadge()}
  ## Questions
+ If you have any further questions please feel free to reach out to me at any of the following: ${'\n'}
  github.com/${answers.githubUser}
  ${answers.email}
 `;
