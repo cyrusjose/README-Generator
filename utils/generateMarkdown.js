@@ -33,8 +33,12 @@ function generateMarkdown(answers) {
   return ` # ${answers.title + assignBadge(answers.license)}
  ## Description
  ${answers.description}
+ ## Table of Contents
+ <!--ts-->
+  *[Installing](#${answers.installation})
+ <!--te-->
  ## Installing
- Installation requirement(s): 
+ Installation requirement(s) [Add more as necessary]: 
  * ${answers.installation}
  ## Usage
  ${answers.usage}
