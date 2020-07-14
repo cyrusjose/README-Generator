@@ -14,9 +14,10 @@
  t
  ```
  ## License
- 
+ The chosen license for this application is Apache License 2.0. Please follow the link below for more imformation about the license.
+ * https://opensource.org/licenses/Apache-2.0
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- * github.com/t
- * t
+ * github.com/
+ * 
