@@ -39,7 +39,7 @@ function generateMarkdown(answers) {
   * [Usage](#${answers.usage})
   * [Contributions](#${answers.contribution})
   * [Tests](#${answers.testInstructions})
-  * [License](#${answers.license})
+  * [License](#Licenses)
   * [Questions](#Questions)
  <!--te-->
  ## Installing
