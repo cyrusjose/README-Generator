@@ -15,6 +15,7 @@
  * Command line and node js.
  ## Usage
  Make sure that node js is installed. Run the code "node index.js" in the command line.
+ <img src = './images/Screen Shot 2020-07-12 at 8.05.01 PM.png'>
  ## Contribution
  Yes, but please reach out via github or my personal email before making changes.
  ## Tests
