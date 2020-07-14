@@ -1,5 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
+const generateMarkDown = require('./utils/generateMarkdown')
 const util = require('util');
 
 const writeFileAsync = util.promisify(fs.writeFile);
@@ -61,34 +62,14 @@ const promptUser = ()=>{
             message: questions[8]
         }
     ]);
-}
-
-// function to write README file
-function generateReadMe(answers) {
-    return` # ${answers.title}
-     ${answers.description}
-    ## Installing
-    ${answers.installation}
-    ## Usage
-    ${answers.usage}
-    ## Contributions
-    ${answers.contribution}
-    ## Tests
-    ${answers.testInstructions}
-    ## License
-    ${answers.license}
-    ## Questions
-    ${answers.githubUser}
-    ${answers.email}
-    `
-}
+};
 
 // function to initialize program
 async function init() {
   console.log('Hello!');
   try{
       const answers = await promptUser();
-      const readme = generateReadMe(answers);
+      const readme = generateMarkDown(answers);
       await writeFileAsync("README.md", readme);
       console.log('Successfully Wrote README.md!');
   } catch(err){
