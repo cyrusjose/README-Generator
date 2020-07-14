@@ -1,27 +1,32 @@
- # Test[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+ # Testing[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
  ## Description
- Test
+ Testing
  ## Table of Contents
  <!--ts-->
-  *[Installing](#Test)
+  * [Installing](#Testing)
+  * [Usage](#Testing)
+  * [Contributions](#Testing)
+  * [Tests](#Testing)
+  * [License](#Apache License 2.0)
+  * [Questions](#Questions)
  <!--te-->
  ## Installing
  Installation requirement(s) [Add more as necessary]: 
- * Test
+ * Testing
  ## Usage
- Test
+ Testing
  ## Contributions
- Test
+ Testing
  ## Tests
  Here is the code to run a test.
  ```
- Test
+ Testing
  ```
  ## License
- The chosen license for this application is BSD 2-Clause. Please follow the link below for more imformation about the license.
- * https://opensource.org/licenses/BSD-2-Clause
+ The chosen license for this application is Apache License 2.0. Please follow the link below for more imformation about the license.
+ * https://opensource.org/licenses/Apache-2.0
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- * https://github.com/Test
- * Test
+ * https://github.com/Testing
+ * Testing
