@@ -1,21 +1,20 @@
- # README Generator
-  It allows the user to generate a README
+ # Test
+  Test
  ## Installing
- None for Now
+ Test
  ## Usage
- Run it in the terminal
+ Test
  ## Contributions
- No
+ Test
  ## Tests
  Here is the code to run the test
  ```
- npm init and anpme bla
-
+ Test
  ```
  ## License
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ undefined
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
  github.com/cyrusjose
- cyrus.jose@outlook.com
+ test

@@ -29,7 +29,7 @@ function generateMarkdown(answers) {
  ${answers.testInstructions}
  ${'```'}
  ## License
- ${assignBadge()}
+ ${assignBadge(answers.choices)}
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: ${'\n'}
  github.com/${answers.githubUser}
