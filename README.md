@@ -1,4 +1,4 @@
- # t[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ # t[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
  ## Description
  t
  ## Installing
@@ -14,10 +14,10 @@
  t
  ```
  ## License
- The chosen license for this application is Apache License 2.0. Please follow the link below for more imformation about the license.
- * https://opensource.org/licenses/Apache-2.0
+ The chosen license for this application is BSD 3-Clause. Please follow the link below for more imformation about the license.
+ * https://opensource.org/licenses/BSD-3-Clause
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- * github.com/
- * 
+ * https://github.com/cyrusjose
+ * cyrus.jose@outlook.com
