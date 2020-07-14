@@ -1,6 +1,6 @@
- # Testing the top   [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+ # README Generator   [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
  ## Description
- test
+ A CLI that allows users to generate a README.md file
  ## Table of Contents
  <!--ts-->
   * [Installation](#Installation)
@@ -12,21 +12,21 @@
  <!--te-->
  ## Installation
  Installation requirement(s) [Add more as necessary]: 
- * test
+ * node js and command line
  ## Usage
- test
+ make sure that node JS is installed. Run the code "node index.js" in the command line.
  ## Contributions
- test
+ yes
  ## Tests
  Here is the code to run a test.
  ```
- test
+ npm run test
  ```
  ## License
- The chosen license for this application is BSD 2-Clause. Please follow the link below for more imformation about the license.
- * https://opensource.org/licenses/BSD-2-Clause
+ The chosen license for this application is BSD 3-Clause. Please follow the link below for more imformation about the license.
+ * https://opensource.org/licenses/BSD-3-Clause
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 
- * https://github.com/test
- * tese
+ * https://github.com/cyrusjose
+ * cyrus.jose@outlook.com
