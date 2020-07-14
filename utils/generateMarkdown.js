@@ -15,7 +15,7 @@ function generateMarkdown(answers) {
       return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
     }
   }
-  return ` # ${answers.title}
+  return ` # ${answers.title + assignBadge(answers.license)}
  ## Description
  ${answers.description}
  ## Installing
@@ -31,7 +31,7 @@ function generateMarkdown(answers) {
  ${answers.testInstructions}
  ${'```'}
  ## License
- ${assignBadge(answers.license)}
+ 
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: ${'\n'}
  * github.com/${answers.githubUser}
