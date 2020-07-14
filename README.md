@@ -12,7 +12,7 @@
  t
  ```
  ## License
- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+ [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
  ## Questions
  If you have any further questions please feel free to reach out to me at any of the following: 
 

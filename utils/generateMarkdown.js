@@ -11,7 +11,7 @@ function generateMarkdown(answers) {
     else if (answers.license === "BSD 2-Clause"){
       return "[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)";
     }
-    else if (answers.license === "MIT") {
+    else {
       return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
     }
   }
